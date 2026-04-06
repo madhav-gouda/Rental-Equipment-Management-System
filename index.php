@@ -397,7 +397,7 @@
         <!-- navigation bar -->
         <nav class="navbar navbar-expand-lg fixed-top">
             <div class="container-fluid px-4">
-                <a class="navbar-brand text-dark" href="index.html"><img class="logo-img" src="image/infinity.png" alt="logoo">
+                <a class="navbar-brand text-dark" href="index.html"><img class="logo-img" src="image/infinity.png" alt="logooo">
                     Rentalinfinity</a>
                 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-label="Toggle navigation">
