@@ -17,6 +17,6 @@ jobs:
         username: ${{ secrets.EC2_USER }}
         key: ${{ secrets.EC2_SSH_KEY }}
         script: |
-          cd /var/www/html
+          cd /var/www/html/Rental-Equipment-Management-System
           git pull origin main
           sudo systemctl restart httpd
