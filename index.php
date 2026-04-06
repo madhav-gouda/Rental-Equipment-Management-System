@@ -796,6 +796,7 @@
 
     
 </footer>
+    echo "CI/CD TEST SUCCESS";
 </body>
 
 </html>
